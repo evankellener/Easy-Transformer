@@ -167,7 +167,7 @@ def get_extracted_idx(idx_list: List[str], ioi_dataset):
 
 CIRCUIT = {
     "name mover": [
-        (9, 9),  # by importance
+        (9, 8),  # by importance
         (10, 0),
         (9, 6),
         (10, 10),
